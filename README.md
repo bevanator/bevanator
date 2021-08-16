@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bevanator
 - 👀 I’m interested in game development and computer graphics.
-- 🌱 I’m currently learning unity and python.
+- 🌱 I’m currently learning unity, unreal and python.
 - 💞️ I’m looking to collaborate on game projects in unity
 - 📫 How to reach me ...
      email: rimona.bevan@gmail.com
